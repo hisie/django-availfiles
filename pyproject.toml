@@ -1,6 +1,6 @@
 [project]
 name = "django-availfiles"
-version = "0.1.0"
+version = "0.2.0"
 description = "A minimal, frontend-agnostic file library for Django: upload a file, get a URL back. No dashboard, no picker UI — just the model."
 readme = "README.md"
 requires-python = ">=3.12"
