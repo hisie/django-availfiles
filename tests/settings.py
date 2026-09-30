@@ -1,5 +1,5 @@
 """Minimal Django settings to run this package's own test suite. No Oscar,
-no dashboard framework — simplefiles genuinely doesn't need one."""
+no dashboard framework — availfiles genuinely doesn't need one."""
 
 from __future__ import annotations
 
@@ -23,7 +23,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "simplefiles",
+    "availfiles",
 ]
 
 MIDDLEWARE = [
